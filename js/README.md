@@ -1,4 +1,4 @@
-## README - Implemnetation of APAI Concepts - Javascript
+## README - Implementation of APAI Concepts - Javascript
 
 # Definitions
 
