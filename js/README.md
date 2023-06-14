@@ -10,7 +10,7 @@ Purpose of this repository is to show examples of FULL and COMPLETE implementati
 
 # Approach
 
-If you know absolutely nothing about AI, prompt engineering, how that works - visit our good friends at http://learnpromting.org
+If you know absolutely nothing about AI, prompt engineering, how that works - visit our good friends at https://learnpromting.org
 
 However, the desire of this repository is for you to find examples that show basic building blocks in their completion. There is nothing more infuriating when people show code taken out of context, broken into paragraphs in a blog intented to drive clicks/likes and not deliver actual value.
 You can have 10 years of experience in the tech field, however a new library can be truly difficult to figure out how to use it if there is no simple clear example on how to use it.
