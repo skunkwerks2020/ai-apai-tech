@@ -1,0 +1,32 @@
+{
+  "name": "ai-langchain-nodejs-express-server",
+  "version": "1.0.0",
+  "description": "LLM, LangChain, NodeJS, Express, Applied AI, OpenAI, GPT3, GPT4, REST, Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "LLM",
+    "LangChain",
+    "NodeJS",
+    "Express",
+    "Applied",
+    "AI",
+    "OpenAI",
+    "GPT3",
+    "GPT4",
+    "REST",
+    "Server"
+  ],
+  "author": "APAI | Skunkwerks2020",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "langchain": "^0.0.95"
+  }
+}
